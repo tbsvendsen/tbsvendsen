@@ -17,8 +17,14 @@ MSc Social Science, University of Bergen.
 - Hansen, H.-T. & Svendsen, T. (2025). [Kjønnsforskjellene i sykefraværet: betydningen av yrkes- og familieforhold](https://doi.org/10.18261/tfv.28.4.4). *Tidsskrift for velferdsforskning*, 28(4).
 - Svendsen, T. & Slupphaug, K. S. (2025). [Frafall i første studieår](https://www.ssb.no/utdanning/hoyere-utdanning/artikler/frafall-forste-studiear). Statistics Norway.
 - Kool, I. & Svendsen, T. (2024). [Seniorenes utdanningsnivå har økt markant](https://www.ssb.no/utdanning/utdanningsniva/artikler/seniorenes-utdanningsniva-har-okt-markant). Statistics Norway.
+- Kool, I. (2024). [Over halvparten av sysselsatte deltok i kurs og seminarer](https://www.ssb.no/utdanning/voksenopplaering/statistikk/livslang-laering/artikler/over-halvparten-av-sysselsatte-deltok-i-kurs-og-seminarer). Statistics Norway.
 - Svendsen, T. & Smith, O. A. (2024–). [Siste nytt i Fabric](https://www.bouvet.no/bouvet-deler/siste-nytt-i-fabric). Bouvet (recurring column).
+- Bouvet & Lyse (2024). [Et solid og moderne grunnlag for analyse, handel og avregning](https://www.bouvet.no/prosjekter/et-solid-og-moderne-grunnlag-for-analyse-handel-og-avregning). Bouvet case study.
 
-<!-- NVA: to titler/lenker mangler — de to S3-lenkene er midlertidige og lot seg ikke resolve til permanente URL-er. Legg til manuelt med permanente NVA-lenker. -->
+<!-- NVA: to dokumenter mangler titler og permanente lenker. S3-URL-ene er midlertidige. Legg til manuelt. -->
+
+#### In the Media
+
+- Mikkelsen, S. (2025). [1 av 4 studenter slutter på studiene i første studieår](https://www.khrono.no/1-av-4-studenter-slutter-pa-studiene-i-forste-studiear/942456). Khrono.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torbjorn-svendsen/)
