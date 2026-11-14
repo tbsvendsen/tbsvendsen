@@ -1,6 +1,6 @@
 ### Torbjørn Svendsen
 
-Data engineer, tech lead and team lead at Bouvet Stavanger.
+Data engineer, tech lead and team lead at Bouvet.
 Building data platforms on Microsoft Fabric.
 
 Previously statistician at Statistics Norway (SSB).
