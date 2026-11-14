@@ -19,9 +19,9 @@ MSc Social Science, University of Bergen.
 - Kool, I. & Svendsen, T. (2024). [Seniorenes utdanningsnivå har økt markant](https://www.ssb.no/utdanning/utdanningsniva/artikler/seniorenes-utdanningsniva-har-okt-markant). Statistics Norway.
 - Kool, I. (2024). [Over halvparten av sysselsatte deltok i kurs og seminarer](https://www.ssb.no/utdanning/voksenopplaering/statistikk/livslang-laering/artikler/over-halvparten-av-sysselsatte-deltok-i-kurs-og-seminarer). Statistics Norway.
 - Svendsen, T. & Smith, O. A. (2024–). [Siste nytt i Fabric](https://www.bouvet.no/bouvet-deler/siste-nytt-i-fabric). Bouvet (recurring column).
+- Svendsen, T. Utstøting til sykefravær: En tverrinstitusjonell analyse av kjønnsforskjellen i sykefraværet. MSc thesis, University of Bergen.
+- Når det rocker i klasserommet — en praktisk tilnærming til dybdelæring.
 - Bouvet & Lyse (2024). [Et solid og moderne grunnlag for analyse, handel og avregning](https://www.bouvet.no/prosjekter/et-solid-og-moderne-grunnlag-for-analyse-handel-og-avregning). Bouvet case study.
-
-<!-- NVA: to dokumenter mangler titler og permanente lenker. S3-URL-ene er midlertidige. Legg til manuelt. -->
 
 #### In the Media
 
